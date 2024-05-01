@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make Money Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            padding: 20px 0;
+            text-align: center;
+            color: #fff;
+        }
+        h1 {
+            margin: 0;
+            font-size: 36px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-gap: 20px;
+        }
+        .card {
+            background-color: #fff;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+        .card img {
+            width: 100%;
+            height: auto;
+            border-bottom: 1px solid #eee;
+        }
+        .card-content {
+            padding: 20px;
+        }
+        .card-content h2 {
+            margin-top: 0;
+            font-size: 24px;
+            color: #2c3e50;
+        }
+        .card-content p {
+            margin: 10px 0;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Make Money Online</h1>
+    </header>
+    <div class="container">
+        <div class="grid">
+            <div class="card">
+                <img src="bitcoin.jpg" alt="Bitcoin">
+                <div class="card-content">
+                    <h2>Bitcoin</h2>
+                    <p>Learn about the revolutionary cryptocurrency and how to invest wisely in it to make profits.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="online_marketing.jpg" alt="Online Marketing">
+                <div class="card-content">
+                    <h2>Online Marketing</h2>
+                    <p>Discover effective online marketing strategies to promote your products or services and generate income.</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="making_money.jpg" alt="Making Money">
+                <div class="card-content">
